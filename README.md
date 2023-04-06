@@ -1,7 +1,7 @@
 <div align="center">
     <h1>No More Doge</h1>
     <h3>A free, open-source chrome extension to remove the Doge logo from Twitter</h3>
-    <h4>Built by @ronaldwichhart</h4>
+    <h4>Built by <a href="https://twitter.com/ronaldwichhart" target="_blank">@ronaldwichhart</a></h4>
 </div>
 
 
