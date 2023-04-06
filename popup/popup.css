@@ -1,0 +1,14 @@
+body {
+    background-color: #222;
+    color: #eee;
+
+    width: 16rem;
+    height: 5.5rem;
+    /* padding: 5px; */
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.special-text {
+    color: red;
+}
